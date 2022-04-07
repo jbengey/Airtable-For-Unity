@@ -14,4 +14,5 @@ More information on the Airtable service can be found here: https://www.airtable
 The official repository for the .NET library can be found here, and comes with guidence and use exmaples. 
 https://github.com/ngocnicholas/airtable.net/wiki/Documentation
 
+<br><br>
 **Please note this repository has no relation to Airtable, their service or their brand.**
