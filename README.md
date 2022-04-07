@@ -10,4 +10,4 @@ A package to allow use of the .NET library for AirTable communication.
 
 ## Documentation
 The official repository for the .NET library can be found here, and comes with guidence and use exmaples. 
-https://github.com/ngocnicholas/airtable.net
+https://github.com/ngocnicholas/airtable.net/wiki/Documentation
