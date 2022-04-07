@@ -1,6 +1,6 @@
 {
-	"name": "com.jbengey.AirTableForUnity",
-	"version": "1.2.3",
+	"name": "com.jbengey.airtableforunity",
+	"version": "1.0.0",
 	"displayName": "AirTable For Unity",
 	"description": "A package to allow use of the .NET library for AirTable communication.",
 	"unity": "2020.3",
