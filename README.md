@@ -1,5 +1,5 @@
 # AirTable For Unity
-A package to allow use of the .NET library for AirTable communication.
+A package to allow use of the .NET library for AirTable communication, installable via Unity's package manager.
 
 ## Installation
 1) Load the package manager inside of your Unity project.
