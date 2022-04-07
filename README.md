@@ -1,10 +1,10 @@
 # Airtable For Unity
-A package to allow use of the .NET library for AirTable communication, installable via Unity's package manager.
+A package to allow use of the .NET library for Airtable communication, installable via Unity's package manager.
 
 ## Installation
 1) Load the package manager inside of your Unity project.
 2) Click the plus in the top left, and select "Add package from GIT url..."
-3) When prompted, paste the repository URL (https://github.com/jbengey/AirTable-For-Unity.git)
+3) When prompted, paste the repository URL (https://github.com/jbengey/Airtable-For-Unity.git)
 4) The package and required .DLL will install in your packages folder
 
 ## Airtable
